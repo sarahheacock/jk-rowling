@@ -1,0 +1,43 @@
+body{
+  font-family: monospace;
+
+  padding: 7%;
+
+}
+
+.year{
+  font-weight: 900;
+}
+
+
+.image1{
+  border-width: 20px;
+  border-style: solid;
+  border-color: LightSeaGreen;
+  img-size: 100%;
+  
+}
+h2{
+  background-color: LightGray;
+  padding-left: 5%;
+}
+h1{
+  background-color: LightGray;
+
+  font-size: 60px;
+}
+p{
+  padding-left: 10%;
+  padding-right: 5%;
+  font-size: 125%
+}
+.child1{
+
+  border-color: LightSeaGreen;
+  border-width: 5px;
+  border-style: inset;
+}
+.ital{
+  font-style: italic;
+}
+
